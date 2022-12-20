@@ -30,18 +30,12 @@ export function Post() {
         </p>
 
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eos
-          omnis nobis, nesciunt dolores rerum vel minus soluta eaque eum enim
-          molestiae ratione nulla, unde maxime! Pariatur commodi tenetur
-          deleniti.
+          <a href="">https://www.github.com/rodrigocan</a>
         </p>
 
         <p>
-          🔗<a href="">https://www.github.com/rodrigocan</a>
-        </p>
-
-        <p>
-          <a href="">#project #react #javascript</a>
+          <a href="">#project</a> <a href="">#react</a>{" "}
+          <a href="">#javascript</a>
         </p>
       </div>
     </article>
